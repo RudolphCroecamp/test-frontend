@@ -9,5 +9,6 @@
     <?php
         echo 'My first PHP script!';
     ?>
+    <a href="/random.php">Back to random page</a>
 </body>
 </html>
